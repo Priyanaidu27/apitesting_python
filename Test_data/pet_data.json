@@ -1,0 +1,38 @@
+[
+{
+  "id": 5734,
+  "category": {
+    "id": 11,
+    "name": "domestic"
+  },
+  "name": "Kitten1",
+  "photoUrls": [
+    " "
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "meow"
+    }
+  ],
+  "status": "available"
+},
+{
+  "id": 5735,
+  "category": {
+    "id": 11,
+    "name": "domestic"
+  },
+  "name": "Kitten2",
+  "photoUrls": [
+    " "
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "meow"
+    }
+  ],
+  "status": "available"
+}
+]
